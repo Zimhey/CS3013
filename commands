@@ -1,0 +1,4 @@
+ls -la
+cat /etc/motd
+echo "Hello World\nTest"
+
